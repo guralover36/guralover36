@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @guralover36
+- 👀 I’m interested in coding(?)
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on @flamelessowo
